@@ -36,9 +36,15 @@
     <ClCompile Include="Bsortrank.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="UI\IconLabel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="Bsortrank.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="UI\IconLabel.h">
       <Filter>Header Files</Filter>
     </QtMoc>
   </ItemGroup>
